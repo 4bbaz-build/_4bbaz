@@ -1,154 +1,285 @@
-Abbas
+<div align="center"> ██████╗ ██████╗ ██████╗  █████╗ ███████╗
+██╔════╝██╔═══██╗██╔══██╗██╔══██╗╚══███╔╝
+██║     ██║   ██║██████╔╝███████║  ███╔╝
+██║     ██║   ██║██╔══██╗██╔══██║ ███╔╝
+╚██████╗╚██████╔╝██████╔╝██║  ██║███████╗
+ ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 
-"@_4bbaz"
+"_4bbaz"
 
-Software developer • Builder • Systems learner
+SOFTWARE • SYSTEMS • AUTOMATION
 
-I build software to understand how systems work — from small utilities and automation to larger personal systems.
+"BUILD" · "DEBUG" · "UNDERSTAND" · "SHIP"
 
-BUILD  →  TEST  →  BREAK  →  DEBUG  →  IMPROVE
+</div>---
+
+<div align="center">"PROFILE.SCAN"
+
+</div>┌──────────────────────────────────────────────────────────────┐
+│ USER                                                         │
+│ ├─ name       : Abbas                                        │
+│ ├─ handle     : _4bbaz                                      │
+│ ├─ location   : Kerala, India                               │
+│ └─ status     : building                                    │
+│                                                              │
+│ DEVELOPMENT                                                  │
+│ ├─ primary    : Python                                      │
+│ ├─ frontend   : HTML / CSS / JavaScript                     │
+│ ├─ systems    : Linux / Windows                             │
+│ ├─ tooling    : Git / GitHub / VS Code                      │
+│ └─ workflow   : build → test → debug → improve              │
+└──────────────────────────────────────────────────────────────┘
 
 ---
 
-⚡ Featured Work
+"// CURRENT_BUILD"
 
-"Abbaz AI"
+🤖 Abbaz AI
 
-A personal AI assistant built around local automation and computer interaction.
+PERSONAL AI / AUTOMATION SYSTEM
 
-Core work includes:
+A personal assistant project focused on local computer interaction, automation and productivity.
+
+┌─────────────┐
+│    INPUT    │
+│ voice/text  │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│   INTENT    │
+│   CONTEXT   │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ PERMISSIONS │
+│   + TOOLS   │
+└──────┬──────┘
+       │
+   ┌───┼───────────┐
+   ▼   ▼           ▼
+ APPS FILES     SYSTEM
+
+Current components
 
 - Voice interaction
-- Application control
-- Local automation
-- Productivity tools
+- Local application control
+- Authorized computer actions
+- Productivity utilities
 - Habit tracking
 - Screen-time analysis
 - Personal data management
-- Permission-based actions
+- Permission-based automation
 
 "Python" · "Automation" · "Local Systems"
 
-Status: "In development"
+STATUS: "██████░░░░  IN DEVELOPMENT"
 
 ---
 
-🧪 Projects & Experiments
+"// PROJECTS"
 
-My repositories contain experiments, utilities, prototypes, and systems I've built while learning software development.
+The repositories here are experiments, utilities and systems built while developing practical software skills.
 
-I focus on projects where I can actually write code, encounter problems, debug them, and understand the underlying system.
+"Abbaz AI"
 
-«Less copying. More building.»
+«Personal AI / automation system»
 
----
+"Python" "Automation" "Local Systems"
 
-🐧 Systems
+"Security Lab"
 
-I work with Linux and Windows environments while learning:
+«Controlled security experiments and defensive learning environments.»
 
-- Shell scripting
-- System administration
-- Networking fundamentals
-- Process and file management
-- System automation
-- Development environments
+"Linux" "Networking" "Security"
 
----
+"Linux Lab"
 
-🛡️ Security Labs
+«System configuration, shell scripting and automation experiments.»
 
-Controlled security experiments and home-lab projects focused on understanding systems rather than blindly running tools.
-
-Work is performed only against systems I own or have explicit permission to test.
-
-RECON
-  ↓
-ENUMERATION
-  ↓
-UNDERSTANDING
-  ↓
-TESTING
-  ↓
-DEFENSE
+"Linux" "Bash" "Systems"
 
 ---
 
-🧰 Stack
+"// SYSTEMS"
 
-Languages
-
-"Python" "JavaScript" "HTML" "CSS"
-
-Development
-
-"Git" "GitHub" "VS Code"
-
-Systems
-
-"Linux" "Windows" "Bash"
-
-Other
-
-"Automation" "APIs" "AI-assisted development"
+┌──────────────────────┬───────────────────────────────────────┐
+│ ENVIRONMENT          │ ROLE                                  │
+├──────────────────────┼───────────────────────────────────────┤
+│ Linux                │ Development / systems                 │
+│ Windows              │ Development / daily environment       │
+│ Python               │ Automation / applications             │
+│ Bash                 │ System scripting                      │
+│ Git                  │ Version control                       │
+│ GitHub               │ Source / project hosting              │
+└──────────────────────┴───────────────────────────────────────┘
 
 ---
 
-📊 GitHub
+"// SECURITY_LAB"
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=_4bbaz&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=_4bbaz&layout=compact&hide_border=true&theme=transparent" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=_4bbaz&theme=transparent&hide_border=true" />
-</p>---
+Controlled environments only.
 
-🧠 How I Learn
+              ┌───────────────┐
+              │    TARGET     │
+              │  OWN / LAB    │
+              └───────┬───────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │   DISCOVER    │
+              └───────┬───────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │ UNDERSTAND    │
+              └───────┬───────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │     TEST      │
+              └───────┬───────┘
+                      │
+                      ▼
+              ┌───────────────┐
+              │    DEFEND     │
+              └───────────────┘
 
-I learn by building.
-
-When something breaks, I don't want to just replace the code with another snippet. I want to understand:
-
-What happened?
-     ↓
-Why did it happen?
-     ↓
-How do I verify the cause?
-     ↓
-How do I fix it?
-     ↓
-How do I prevent it next time?
-
-That's how I turn experiments into actual knowledge.
-
----
-
-📌 Repository Standard
-
-For projects worth keeping, I try to document:
-
-- What the project does
-- Why it exists
-- How it works
-- Setup instructions
-- Problems encountered
-- Decisions made
-- Future improvements
-
-Because a repository should show how I think, not just contain code.
+All security experimentation is performed only on systems I own or have explicit authorization to test.
 
 ---
 
-📬 Contact
+"// STACK"
 
+<table>
+<tr>
+<td valign="top" width="50%">Languages
+
+Python
+JavaScript
+HTML
+CSS
+Bash
+
+</td>
+<td valign="top" width="50%">Development
+
+Git
 GitHub
-"@_4bbaz" (https://github.com/_4bbaz)
+VS Code
+APIs
+Automation
 
-Email
-"abbaspa67@gmail.com" (mailto:abbaspa67@gmail.com)
+</td>
+</tr>
+</table>---
+
+"// GITHUB.TELEMETRY"
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=_4bbaz&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=_4bbaz&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="49%"></div><br><div align="center"><img src="https://streak-stats.demolab.com/?user=_4bbaz&theme=transparent&hide_border=true" width="70%"></div>---
+
+"// CONTRIBUTION_MATRIX"
+
+<div align="center">"GitHub Contribution Graph" (https://github-readme-activity-graph.vercel.app/graph?username=_4bbaz&bg_color=00000000&color=7ee787&line=39d353&point=ffffff&area=true&hide_border=true)
+
+</div>---
+
+"// ENGINEERING_PROCESS"
+
+┌──────────────┐
+│     IDEA     │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   RESEARCH   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   PROTOTYPE  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     TEST     │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│    DEBUG     │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   IMPROVE    │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     SHIP     │
+└──────────────┘
+
+I prefer understanding why something works instead of simply copying a solution.
+
+When something breaks:
+
+ERROR
+  ↓
+REPRODUCE
+  ↓
+INSPECT
+  ↓
+IDENTIFY ROOT CAUSE
+  ↓
+FIX
+  ↓
+VERIFY
 
 ---
 
-<p align="center">
-  <sub>Build something. Break something. Understand something.</sub>
-</p>
+"// REPOSITORY_STANDARD"
+
+For projects worth keeping, I document:
+
+[01] WHAT
+     What does it do?
+
+[02] WHY
+     Why did I build it?
+
+[03] HOW
+     How does it work?
+
+[04] DEBUG
+     What problems appeared?
+
+[05] DECISIONS
+     Why was it built this way?
+
+[06] NEXT
+     What comes after the current version?
+
+---
+
+"// TERMINAL"
+
+$ whoami
+_4bbaz
+
+$ status
+building
+
+$ philosophy
+understand > copy
+
+$ workflow
+build → break → debug → improve
+
+$ next
+ship something better
+
+---
+
+<div align="center">"// CONNECT"
+
+"GitHub" (https://github.com/_4bbaz) • "Email" (mailto:abbaspa67@gmail.com)
+
+<br>"BUILD SOMETHING. BREAK SOMETHING. UNDERSTAND SOMETHING."
+
+</div>
