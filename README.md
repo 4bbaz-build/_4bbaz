@@ -1,285 +1,87 @@
-<div align="center"> ██████╗ ██████╗ ██████╗  █████╗ ███████╗
-██╔════╝██╔═══██╗██╔══██╗██╔══██╗╚══███╔╝
-██║     ██║   ██║██████╔╝███████║  ███╔╝
-██║     ██║   ██║██╔══██╗██╔══██║ ███╔╝
-╚██████╗╚██████╔╝██████╔╝██║  ██║███████╗
- ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+## 👾 _4bbaz
 
-"_4bbaz"
+<span id="typing"></span>
 
-SOFTWARE • SYSTEMS • AUTOMATION
+<script>
+const text = "Abbas — Grade 10, Kerala, India. I build systems for fun and understanding.";
+const el = document.getElementById("typing");
+let i = 0;
+(function type(){
+  el.textContent = text.slice(0, i++);
+  if(i <= text.length) setTimeout(type, 40);
+})();
+</script>
 
-"BUILD" · "DEBUG" · "UNDERSTAND" · "SHIP"
-
-</div>---
-
-<div align="center">"PROFILE.SCAN"
-
-</div>┌──────────────────────────────────────────────────────────────┐
-│ USER                                                         │
-│ ├─ name       : Abbas                                        │
-│ ├─ handle     : _4bbaz                                      │
-│ ├─ location   : Kerala, India                               │
-│ └─ status     : building                                    │
-│                                                              │
-│ DEVELOPMENT                                                  │
-│ ├─ primary    : Python                                      │
-│ ├─ frontend   : HTML / CSS / JavaScript                     │
-│ ├─ systems    : Linux / Windows                             │
-│ ├─ tooling    : Git / GitHub / VS Code                      │
-│ └─ workflow   : build → test → debug → improve              │
-└──────────────────────────────────────────────────────────────┘
+**Focus:** Python • AI assistants • Web • Linux • Security labs • Android internals
 
 ---
 
-"// CURRENT_BUILD"
+## ⚡ What I'm Building
 
-🤖 Abbaz AI
+### 🤖 Abbaz AI
+A personal AI assistant for voice interaction, local PC control, app launching, productivity, habit tracking, screen-time analysis, trading journal, and privacy‑first local automation.  
+🚧 In development
 
-PERSONAL AI / AUTOMATION SYSTEM
+### 🏫 CCPLM Teacher
+A school management concept with role-based access for teachers and students, covering attendance, homework, notices, grades, calendars, and more.  
+🚧 In development
 
-A personal assistant project focused on local computer interaction, automation and productivity.
+### 🛡️ Security Labs
+Authorized home labs and cybersecurity learning projects.  
+🚧 In development
 
-┌─────────────┐
-│    INPUT    │
-│ voice/text  │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│   INTENT    │
-│   CONTEXT   │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│ PERMISSIONS │
-│   + TOOLS   │
-└──────┬──────┘
-       │
-   ┌───┼───────────┐
-   ▼   ▼           ▼
- APPS FILES     SYSTEM
+### 🐧 Linux Experiments
+System configuration, scripting, and automation experiments on my own machines.  
+🚧 In development
 
-Current components
-
-- Voice interaction
-- Local application control
-- Authorized computer actions
-- Productivity utilities
-- Habit tracking
-- Screen-time analysis
-- Personal data management
-- Permission-based automation
-
-"Python" · "Automation" · "Local Systems"
-
-STATUS: "██████░░░░  IN DEVELOPMENT"
+### 📱 Android Experiments
+Bootloader, custom ROM, ADB, and Fastboot experimentation on devices I own or have permission to modify.  
+🚧 In development
 
 ---
 
-"// PROJECTS"
+## 🧰 Tech Stack
 
-The repositories here are experiments, utilities and systems built while developing practical software skills.
+**Languages**  
+Python • HTML • CSS • JavaScript
 
-"Abbaz AI"
+**Systems**  
+Linux • Windows • Android • ADB • Fastboot
 
-«Personal AI / automation system»
+**Developer Tools**  
+Git • GitHub • VS Code
 
-"Python" "Automation" "Local Systems"
-
-"Security Lab"
-
-«Controlled security experiments and defensive learning environments.»
-
-"Linux" "Networking" "Security"
-
-"Linux Lab"
-
-«System configuration, shell scripting and automation experiments.»
-
-"Linux" "Bash" "Systems"
+**Interests**  
+Cybersecurity • AI • Automation • UI/UX
 
 ---
 
-"// SYSTEMS"
+## 🧪 Currently Experimenting With
 
-┌──────────────────────┬───────────────────────────────────────┐
-│ ENVIRONMENT          │ ROLE                                  │
-├──────────────────────┼───────────────────────────────────────┤
-│ Linux                │ Development / systems                 │
-│ Windows              │ Development / daily environment       │
-│ Python               │ Automation / applications             │
-│ Bash                 │ System scripting                      │
-│ Git                  │ Version control                       │
-│ GitHub               │ Source / project hosting              │
-└──────────────────────┴───────────────────────────────────────┘
+- 🤖 Local AI assistants  
+- 🐧 Linux & system administration  
+- 🔐 Ethical cybersecurity labs  
+- 📱 Android internals & customization  
+- ⚙️ Automation  
+- 🌐 Modern web interfaces  
 
 ---
 
-"// SECURITY_LAB"
+## 📈 GitHub Stats
 
-Controlled environments only.
-
-              ┌───────────────┐
-              │    TARGET     │
-              │  OWN / LAB    │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │   DISCOVER    │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │ UNDERSTAND    │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │     TEST      │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │    DEFEND     │
-              └───────────────┘
-
-All security experimentation is performed only on systems I own or have explicit authorization to test.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=_4bbaz&show_icons=true&theme=radical&animation=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=_4bbaz&layout=compact&theme=radical&animation=true)
+![Streak Stats](https://streak-stats.demolab.com?user=_4bbaz&theme=dark)
 
 ---
 
-"// STACK"
+## 🧠 Learning Philosophy
 
-<table>
-<tr>
-<td valign="top" width="50%">Languages
-
-Python
-JavaScript
-HTML
-CSS
-Bash
-
-</td>
-<td valign="top" width="50%">Development
-
-Git
-GitHub
-VS Code
-APIs
-Automation
-
-</td>
-</tr>
-</table>---
-
-"// GITHUB.TELEMETRY"
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=_4bbaz&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=_4bbaz&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="49%"></div><br><div align="center"><img src="https://streak-stats.demolab.com/?user=_4bbaz&theme=transparent&hide_border=true" width="70%"></div>---
-
-"// CONTRIBUTION_MATRIX"
-
-<div align="center">"GitHub Contribution Graph" (https://github-readme-activity-graph.vercel.app/graph?username=_4bbaz&bg_color=00000000&color=7ee787&line=39d353&point=ffffff&area=true&hide_border=true)
-
-</div>---
-
-"// ENGINEERING_PROCESS"
-
-┌──────────────┐
-│     IDEA     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   RESEARCH   │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   PROTOTYPE  │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│     TEST     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    DEBUG     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   IMPROVE    │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│     SHIP     │
-└──────────────┘
-
-I prefer understanding why something works instead of simply copying a solution.
-
-When something breaks:
-
-ERROR
-  ↓
-REPRODUCE
-  ↓
-INSPECT
-  ↓
-IDENTIFY ROOT CAUSE
-  ↓
-FIX
-  ↓
-VERIFY
+I learn by building, breaking, debugging, rebuilding, and understanding why it works. Tutorials are fine; shipping is better.
 
 ---
 
-"// REPOSITORY_STANDARD"
+## 📬 Contact
 
-For projects worth keeping, I document:
-
-[01] WHAT
-     What does it do?
-
-[02] WHY
-     Why did I build it?
-
-[03] HOW
-     How does it work?
-
-[04] DEBUG
-     What problems appeared?
-
-[05] DECISIONS
-     Why was it built this way?
-
-[06] NEXT
-     What comes after the current version?
-
----
-
-"// TERMINAL"
-
-$ whoami
-_4bbaz
-
-$ status
-building
-
-$ philosophy
-understand > copy
-
-$ workflow
-build → break → debug → improve
-
-$ next
-ship something better
-
----
-
-<div align="center">"// CONNECT"
-
-"GitHub" (https://github.com/_4bbaz) • "Email" (mailto:abbaspa67@gmail.com)
-
-<br>"BUILD SOMETHING. BREAK SOMETHING. UNDERSTAND SOMETHING."
-
-</div>
+- Email: [abbaspa67@gmail.com](mailto:abbaspa67@gmail.com)  
+- GitHub: [@_4bbaz](https://github.com/_4bbaz)
